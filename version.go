@@ -4,5 +4,5 @@
 
 package helpers
 
-// Version is the current gocarp helpers version.
-const Version = "v1.1.0"
+// Version is the current Gocarp helpers version.
+const Version = "v1.1.1"
