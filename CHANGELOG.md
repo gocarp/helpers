@@ -1,12 +1,20 @@
 # Changelog
 
+## v1.1.2
+
+### Features
+* feat(tracing): provides some utility functions for tracing functionality
+
+### Enhancements
+* chore(deps): update and add new dependencies versions
+
 ## v1.1.1
 
 ### Features
 * feat(str): provides functions for string handling
 
 ### Enhancements
-* chore: update and add various Go dependencies to latest versions
+* chore(deps): update and add new dependencies versions
 
 ## v1.1.0
 
